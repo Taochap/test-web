@@ -19,7 +19,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-TL9R3739');</script>
 <!-- End Google Tag Manager -->
     <meta charset="utf-8">
-   <?php
+<?php
    session_start();
    require 'files/config.php';
    use Melbahja\Seo\MetaTags;
